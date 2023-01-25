@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/mazin.mohamed.127
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/mazin.mohamed.127
 [linkedin]: https://www.linkedin.com/in/mazin-mohammed-roof-2a28b9137/
